@@ -37,6 +37,7 @@ features:
     details: 前端会写，但做不出那种美美的画风😭，拿这个记录日常学习刚刚好。
 ---
 <style>
+  <script src="https://unpkg.com/vue-pdf-embed"></script>
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
